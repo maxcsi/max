@@ -14,5 +14,8 @@ Criar e gerenciar um repositório privado no DockerHub ou implementar um registr
 
 ![](proposta.png)
 
+Estrutura do Kubernetes
+
+![](kubernetes.png)
 
 
