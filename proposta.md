@@ -24,3 +24,11 @@ Criar e gerenciar um repositório privado no DockerHub ou implementar um registr
 ![](kubernetes.png)
 
 
+## Rancher
+
+ ![](log.PNG)
+ 
+ 
+ ![](namespace.PNG)
+
+
